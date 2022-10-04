@@ -46,6 +46,7 @@ This is our landing page where you can go to others pages and functionalities. Y
 and you can Login and Signup by clicking the account option in the navbar. In this Page you will find all your favourite products and your favourite brands.
 We have made the home page of this website by using HTML,CSS, and Advance JAVASCRIPT. 
 And we have add the Navbar & Footer in all the pages by using advance Javascript.
+![Screenshot (135)](https://user-images.githubusercontent.com/46519725/193768698-93fb118a-cc83-4594-bf74-bb3ee6c59850.png)
 
 
 LOGIN PAGE:
@@ -54,6 +55,7 @@ This page made by Sandhya Kushwaha with the full functionality by using JavaScri
 When you first go to our website you will see an account icon in navbar on clicking that it will redirected you signup page and there 
 will be a option of register or login, if you have already registered with us you don’t have to register again. You can just login from there. 
 After successfully logging in it will redirect you to Homepage.
+![Screenshot (140)](https://user-images.githubusercontent.com/46519725/193768766-0bf9d4ee-945d-4abd-a715-0ffe3d55ff83.png)
 
 
 MAKEUP PAGE:
@@ -63,6 +65,7 @@ On clicking makeup it will redirect you to makeup page where you can see differe
 On the navbar you will see search bar and you can search for your desired products it will take you to the search’s 
 result page where you will see the results and details of the products.
 On every product there will be add to cart button from there you can add to cart.
+![Screenshot (138)](https://user-images.githubusercontent.com/46519725/193768841-4e33a695-6cd7-4310-8fbf-393e9de0760d.png)
 
 
 HAIR PAGE:
@@ -78,6 +81,7 @@ On cart icon we can see all the products that is added to cart and can proceed f
 details and finally click on pay now. Your order will be placed successfully.
 You will get a message of saying Thank you after you purchased the item or product something.
 We hope you will like our website and will visit for sure.
+![Screenshot (140)](https://user-images.githubusercontent.com/46519725/193768881-308311ad-3ea8-4cbe-a705-d592365eb8d2.png)
 
 
 Conclusions:
